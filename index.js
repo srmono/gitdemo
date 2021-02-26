@@ -1,1 +1,1 @@
-alert("I Love Java Script");
+alert("Hey, I Love Java Script");
